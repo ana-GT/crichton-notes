@@ -12,6 +12,7 @@ Contents:
    :maxdepth: 2
 
    installing_dependencies
+   installing_kinect_support
 
 Indices and tables
 ==================
